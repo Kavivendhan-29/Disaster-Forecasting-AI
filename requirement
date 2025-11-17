@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+prophet==1.1.4
+cmdstanpy==1.2.0
+plotly
+scikit-learn
