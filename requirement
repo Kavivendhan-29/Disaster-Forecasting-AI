@@ -1,7 +1,11 @@
-streamlit
-pandas
+pandas>=1.5
 numpy
-prophet==1.1.4
-cmdstanpy==1.2.0
-plotly
 scikit-learn
+xgboost
+prophet
+cmdstanpy
+joblib
+plotly
+streamlit
+imbalanced-learn
+matplotlib
